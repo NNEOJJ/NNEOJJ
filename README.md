@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @NNEOJJ
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
-<!---
 {
 
 i'm guy from Brazil, search to star new history on software engineer work, 
@@ -12,5 +6,3 @@ i'm guy from Brazil, search to star new history on software engineer work,
 im spectate to dev's or old engineer's help me to star new career to Code World <3; 
 
 }
-
---->
