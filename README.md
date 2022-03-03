@@ -1,8 +1,10 @@
+ Lionel T, aka NeoJJ i from Brazil,
+my favorite hobbie was technology, student Software Engineer.
 
-{
+   👩🏽‍💻 Desenvolvedor em formação, Iniciante
+   🎓 Informática básico, Intermediário e avançado (Certificado - Exattus2016)
+   📚 Busco projetos para colaborar e aprender, explorando o mundo do Front e Back-end
+   🕵🏽‍♀️ Entusiasta de Games, Blockchain, CyberSecurity any more...
 
-i'm guy from Brazil, search to star new history on software engineer work, 
- im 22 years old, the create one project: barbershop on vb/Java & Calculator KKKKK', sorry im amateur...
-im spectate to dev's or old engineer's help me to star new career to Code World <3; 
-
-}
+📌 BÁSICO: HTML, CSS, JS, VB6
+📌 APRENDENDO: POO, JS, MySQL, C++, GIT...
